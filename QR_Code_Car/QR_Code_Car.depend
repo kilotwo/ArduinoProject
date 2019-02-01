@@ -1,0 +1,363 @@
+# depslib dependency file v1.0
+1531797478 source:/home/sky/妗岄潰/WorkSpace/Code::Blocks/QR_Code_Car/Astar.cpp
+	<algorithm>
+	"Astar.h"
+	<limits.h>
+
+1531797434 /home/sky/妗岄潰/WorkSpace/Code::Blocks/QR_Code_Car/Astar.h
+	<vector>
+	<iostream>
+
+1515986176 /usr/include/limits.h
+	<features.h>
+	<bits/wordsize.h>
+	<bits/posix1_lim.h>
+	<bits/posix2_lim.h>
+	<bits/xopen_lim.h>
+
+1515986176 /usr/include/features.h
+	<stdc-predef.h>
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1515986176 /usr/include/stdc-predef.h
+
+1531812483 source:/home/sky/妗岄潰/WorkSpace/Code::Blocks/QR_Code_Car/Serial.cpp
+	"Serial.h"
+
+1531799250 /home/sky/妗岄潰/WorkSpace/Code::Blocks/QR_Code_Car/Serial.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<termios.h>
+	<errno.h>
+	<string.h>
+	<string>
+	<ctype.h>
+
+1515986195 /usr/include/stdio.h
+	<features.h>
+	<stddef.h>
+	<bits/types.h>
+	<libio.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<getopt.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1515986195 /usr/include/libio.h
+	<_G_config.h>
+	<stdarg.h>
+	<sys/cdefs.h>
+	<shlib-compat.h>
+	<bits/libio-ldbl.h>
+
+1515986195 /usr/include/_G_config.h
+	<bits/types.h>
+	<stddef.h>
+	<wchar.h>
+	<gconv.h>
+
+1515986197 /usr/include/wchar.h
+	<features.h>
+	<stdio.h>
+	<stdarg.h>
+	<bits/wchar.h>
+	<stddef.h>
+	<wctype.h>
+	<xlocale.h>
+	<xlocale.h>
+	<xlocale.h>
+	<wctype.h>
+	<bits/wchar2.h>
+	<bits/wchar-ldbl.h>
+
+1515986202 /usr/include/wctype.h
+	<features.h>
+	<bits/types.h>
+	<wchar.h>
+	<endian.h>
+	<xlocale.h>
+
+1515986196 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1515986177 /usr/include/xlocale.h
+
+1515986177 /usr/include/gconv.h
+	<features.h>
+	<wchar.h>
+	<stddef.h>
+
+1515986198 /usr/include/getopt.h
+	<ctype.h>
+
+1515986190 /usr/include/ctype.h
+	<features.h>
+	<bits/types.h>
+	<endian.h>
+	<xlocale.h>
+
+1515986194 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib-bsearch.h>
+	<bits/stdlib-float.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1515986194 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1515986198 /usr/include/unistd.h
+	<features.h>
+	<bits/posix_opt.h>
+	<bits/environments.h>
+	<bits/types.h>
+	<stddef.h>
+	<bits/confname.h>
+	<getopt.h>
+	<bits/unistd.h>
+
+1515986199 /usr/include/fcntl.h
+	<features.h>
+	<bits/types.h>
+	<bits/fcntl.h>
+	<time.h>
+	<bits/stat.h>
+	<bits/fcntl2.h>
+
+1515986197 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1515986199 /usr/include/termios.h
+	<features.h>
+	<bits/types.h>
+	<bits/termios.h>
+	<sys/ttydefaults.h>
+
+1515986194 /usr/include/errno.h
+	<features.h>
+	<bits/errno.h>
+
+1515986196 /usr/include/string.h
+	<features.h>
+	<stddef.h>
+	<xlocale.h>
+	<bits/string.h>
+	<bits/string2.h>
+	<bits/string3.h>
+
+1531989026 source:/home/sky/妗岄潰/WorkSpace/Code::Blocks/QR_Code_Car/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<zbar.h>
+	"Astar.h"
+	"Serial.h"
+	<time.h>
+	<iostream>
+	<sstream>
+
+1397240126 /usr/local/include/opencv2/core/core.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/version.hpp"
+	<limits.h>
+	<algorithm>
+	<cmath>
+	<cstddef>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	<sstream>
+	"opencv2/core/operations.hpp"
+	"opencv2/core/mat.hpp"
+
+1397240126 /usr/local/include/opencv2/core/types_c.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+	"tegra_round.hpp"
+	"emmintrin.h"
+
+1515986190 /usr/include/assert.h
+	<features.h>
+
+1515986194 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1515986192 /usr/include/math.h
+	<features.h>
+	<bits/math-vector.h>
+	<bits/huge_val.h>
+	<bits/huge_valf.h>
+	<bits/huge_vall.h>
+	<bits/inf.h>
+	<bits/nan.h>
+	<bits/mathdef.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathinline.h>
+	<bits/math-finite.h>
+
+1397240126 /usr/local/include/opencv2/core/version.hpp
+
+1397240126 /usr/local/include/opencv2/core/operations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	<limits>
+
+1397240126 /usr/local/include/opencv2/core/mat.hpp
+	<limits.h>
+	<string.h>
+
+1397240126 /usr/local/include/opencv2/highgui/highgui.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1397240126 /usr/local/include/opencv2/highgui/highgui_c.h
+	"opencv2/core/core_c.h"
+
+1397240126 /usr/local/include/opencv2/core/core_c.h
+	"opencv2/core/types_c.h"
+
+1397240126 /usr/local/include/opencv2/imgproc/imgproc.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/types_c.h"
+
+1397240126 /usr/local/include/opencv2/imgproc/types_c.h
+	"opencv2/core/core_c.h"
+
+1531728412 /usr/local/include/zbar.h
+	"zbar/Exception.h"
+	"zbar/Decoder.h"
+	"zbar/Scanner.h"
+	"zbar/Symbol.h"
+	"zbar/Image.h"
+	"zbar/ImageScanner.h"
+	"zbar/Video.h"
+	"zbar/Window.h"
+	"zbar/Processor.h"
+
+1531728412 /usr/local/include/zbar/Exception.h
+	<exception>
+	<new>
+
+1531728412 /usr/local/include/zbar/Decoder.h
+	<string>
+
+1531728412 /usr/local/include/zbar/Scanner.h
+	<stdio.h>
+
+1531728412 /usr/local/include/zbar/Symbol.h
+	<stdlib.h>
+	<string>
+	<ostream>
+	<assert.h>
+
+1531728413 /usr/local/include/zbar/Image.h
+	<assert.h>
+	<iterator>
+	"Symbol.h"
+	"Exception.h"
+
+1531728413 /usr/local/include/zbar/ImageScanner.h
+	"Image.h"
+
+1531728413 /usr/local/include/zbar/Video.h
+	"Image.h"
+
+1531728413 /usr/local/include/zbar/Window.h
+	"Image.h"
+
+1531728413 /usr/local/include/zbar/Processor.h
+	"Exception.h"
+	"Image.h"
+
+1531826280 source:/home/sky/妗岄潰/QR_Code_Car/Astar.cpp
+	<algorithm>
+	"Astar.h"
+	<limits.h>
+
+1531826236 /home/sky/妗岄潰/QR_Code_Car/Astar.h
+	<vector>
+	<iostream>
+
+1532077860 source:/home/sky/妗岄潰/QR_Code_Car/Serial.cpp
+	"Serial.h"
+
+1532077129 /home/sky/妗岄潰/QR_Code_Car/Serial.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<termios.h>
+	<errno.h>
+	<string.h>
+	<string>
+	<ctype.h>
+
+1533685424 source:c:\users\wanzhongji\desktop\创新实验\全向地盘案例\实验\实验六(整体实验)\树莓派\qr_code_car\astar.cpp
+	<algorithm>
+	"Astar.h"
+	<limits.h>
+
+1533685424 c:\users\wanzhongji\desktop\创新实验\全向地盘案例\实验\实验六(整体实验)\树莓派\qr_code_car\astar.h
+	<vector>
+	<iostream>
+
+1533685424 source:c:\users\wanzhongji\desktop\创新实验\全向地盘案例\实验\实验六(整体实验)\树莓派\qr_code_car\serial.cpp
+	"Serial.h"
+
+1533685424 c:\users\wanzhongji\desktop\创新实验\全向地盘案例\实验\实验六(整体实验)\树莓派\qr_code_car\serial.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<termios.h>
+	<errno.h>
+	<string.h>
+	<string>
+	<ctype.h>
+
