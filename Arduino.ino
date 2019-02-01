@@ -64,10 +64,7 @@ void setup() {        //初始化
 void loop() 
 {
 #ifdef MOVE_DBG
- // moveTo(0.4, 0, false, MOVE_RIGHT); //左平移
    moveTo(0, 1.0, false, MOVE_FORWARD); //前进
-   //moveTo(-0.4, 0, true, MOVE_LEFT); //右平移
-//   moveTo(0, -0.4, false, MOVE_BACK); //后退
    delay(1000);
    QRDetect();                      //此时得到二维码顺序   
    delay(1000);
@@ -235,14 +232,7 @@ void Putt(){
         ServoSet(servo_num, 125,64,61,80,100);  //松开1
         delay(2000);
             moveTo(0.5, 0, false, MOVE_LEFT); //left平移
-    /*    
-        ServoSet(servo_num, 13, 80, 42, 90, 105);
-        ServoSet(servo_num, 13, 90, 38, 90, 105);
-        ServoSet(servo_num, 13, 130, 71, 78, 105);
-        ServoSet(servo_num, 13, 130, 71, 78, 53);
-        ServoSet(servo_num, 13, 80, 42, 90, 53);
-        ServoSet(servo_num, 93, 80, 42, 90, 53);
-        */
+ 
       break;
     }
      ServoSet(servo_num, 73,61,71,85,83); //2.机械臂复位
